@@ -30,7 +30,6 @@ This project is a UI/UX design for a salon website created as part of the Future
 
 ### Mobile View
 ![Mobile](WhatsApp Image 2026-04-25 at 1.34.11 PM.jpeg)
-![Mobile](Welcome Screen.jpg)
 
 
 ## 📍 Conclusion
