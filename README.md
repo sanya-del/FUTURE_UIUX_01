@@ -22,6 +22,10 @@ This project is a UI/UX design for a salon website created as part of the Future
 - Figma (UI Design)
 - GitHub (Project hosting)
 
+
+## 🔗 Figma Design Link
+https://www.figma.com/make/Ny9T0XpN43b2tCN9qaG4PA/Local-Service-Business-Website?p=f&t=hxITZ4hzzkAf9S0e-0&fullscreen=1
+
 ## 📱 Screenshots
 
 ### Desktop View
