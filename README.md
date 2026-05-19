@@ -24,12 +24,11 @@ This project is a UI/UX design for a salon website created as part of the Future
 
 ## 📱 Screenshots
 
-### Desktop View
-![Desktop](Screenshot 2026-04-25 115003.png)
-
-
 ### Mobile View
 ![Mobile](WhatsApp Image 2026-04-25 at 1.34.11 PM.jpeg)
+
+### Desktop View
+![Desktop](Screenshot 2026-04-25 115003.png)
 
 
 ## 📍 Conclusion
